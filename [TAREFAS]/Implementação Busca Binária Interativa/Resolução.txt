@@ -1,0 +1,3 @@
+https://replit.com/@FunNyLuAz/Implementacao-Busca-Binaria-Interativa#Main.java
+
+https://github.com/lucas-azdias/Resolucao-de-Problemas-Estruturados-em-Computacao/blob/main/%5BTAREFAS%5D/Implementa%C3%A7%C3%A3o%20Busca%20Bin%C3%A1ria%20Interativa/Main.java
