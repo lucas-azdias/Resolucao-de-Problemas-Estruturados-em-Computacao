@@ -50,12 +50,12 @@ def solveHanoi(n, pinos, count, indexPinoInicial, indexPinoFinal, indexPinoMeio)
             pinos[indexPinoInicial].pop(len(pinos[indexPinoInicial]) - 1)
             showPinos(pinos)
             count += 1
-      elif n < 1:
-            print("\033[1;31m\nErro! Número de discos é negativo.\033[m")
-      else: # n > 1
+      elif n > 1:
             pinos, count = solveHanoi(n - 1, pinos, count, indexPinoInicial + 1, indexPinoMeio + 1, indexPinoFinal + 1)
             pinos, count = solveHanoi(1, pinos, count, indexPinoInicial + 1, indexPinoFinal + 1, indexPinoMeio + 1)
             pinos, count = solveHanoi(n - 1, pinos, count, indexPinoMeio + 1, indexPinoFinal + 1, indexPinoInicial + 1)
+      else: # n < 1
+            print("\033[1;31m\nErro! Número de discos é negativo.\033[m")
 
       return pinos, count
 
