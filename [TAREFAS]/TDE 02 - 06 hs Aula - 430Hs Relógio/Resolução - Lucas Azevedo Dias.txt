@@ -1,0 +1,18 @@
+<p><strong>URLS:</strong></p>
+<ul>
+<li><a class="inline_disabled" href="https://replit.com/@FunNyLuAz/TDE-02-06-hs-Aula-430Hs-Relogio" target="_blank">Repl.it da resolução</a>;</li>
+<li><a class="inline_disabled" href="https://github.com/lucas-azdias/Resolucao-de-Problemas-Estruturados-em-Computacao/tree/main/%5BTAREFAS%5D/TDE%2002%20-%2006%20hs%20Aula%20-%20430Hs%20Rel%C3%B3gio/TDE%2002%20-%2006%20hs%20Aula%20-%20430Hs%20Rel%C3%B3gio" target="_blank">Pasta no GitHub da resolução</a>;</li>
+<li><a class="inline_disabled" href="https://youtu.be/oKa00vb537k" target="_blank">Vídeo explicativo</a>.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>RELATÓRIOS:</strong></p>
+<ul>
+<li><span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="Report - Lucas Azevedo Dias.pdf" href="https://pucpr.instructure.com/users/33105/files/2169467?wrap=1&amp;verifier=jeukVYoSsuYbcZfZzkLJrvBzlH5uwbRohQKp9Fp9" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://pucpr.instructure.com/api/v1/users/33105/files/2169467" data-api-returntype="File">Relatório em inglês</a><a class="file_download_btn" role="button" download="" style="margin-inline-start: 5px; text-decoration: none;" href="https://pucpr.instructure.com/users/33105/files/2169467/download?verifier=jeukVYoSsuYbcZfZzkLJrvBzlH5uwbRohQKp9Fp9&amp;download_frd=1"><span role="presentation"><svg viewBox="0 0 1920 1920" version="1.1" xmlns="http://www.w3.org/2000/svg" style="width:1em; height:1em; vertical-align:middle; fill:currentColor">
+    <path d="M1807.09271,1482.47718 L1886.82918,1562.43953 L1531.51624,1917.75247 L355.346824,1917.75247 L0.0338823529,1562.43953 L79.8832941,1482.47718 L402.104471,1804.81129 L1484.75859,1804.81129 L1807.09271,1482.47718 Z M997.677176,-0.0338823529 L997.677176,1166.98729 L1352.99012,811.674353 L1432.95247,891.523765 L941.093647,1383.15671 L449.460706,891.523765 L529.423059,811.674353 L884.736,1166.98729 L884.736,-0.0338823529 L997.677176,-0.0338823529 Z" stroke="none" stroke-width="1" fill-rule="evenodd"></path>
+</svg>
+</span><span class="screenreader-only">Baixar Relatório em inglês</span></a></span>;</li>
+<li><span class="instructure_file_holder link_holder instructure_file_link_holder"><a class="inline_disabled preview_in_overlay" title="Relatório - Lucas Azevedo Dias.pdf" href="https://pucpr.instructure.com/users/33105/files/2169465?wrap=1&amp;verifier=UCM6loTI3dYknR0Y191DrItvfXDSh0wIK76SpXvU" target="_blank" data-canvas-previewable="false" data-api-endpoint="https://pucpr.instructure.com/api/v1/users/33105/files/2169465" data-api-returntype="File">Relatório em português</a><a class="file_download_btn" role="button" download="" style="margin-inline-start: 5px; text-decoration: none;" href="https://pucpr.instructure.com/users/33105/files/2169465/download?verifier=UCM6loTI3dYknR0Y191DrItvfXDSh0wIK76SpXvU&amp;download_frd=1"><span role="presentation"><svg viewBox="0 0 1920 1920" version="1.1" xmlns="http://www.w3.org/2000/svg" style="width:1em; height:1em; vertical-align:middle; fill:currentColor">
+    <path d="M1807.09271,1482.47718 L1886.82918,1562.43953 L1531.51624,1917.75247 L355.346824,1917.75247 L0.0338823529,1562.43953 L79.8832941,1482.47718 L402.104471,1804.81129 L1484.75859,1804.81129 L1807.09271,1482.47718 Z M997.677176,-0.0338823529 L997.677176,1166.98729 L1352.99012,811.674353 L1432.95247,891.523765 L941.093647,1383.15671 L449.460706,891.523765 L529.423059,811.674353 L884.736,1166.98729 L884.736,-0.0338823529 L997.677176,-0.0338823529 Z" stroke="none" stroke-width="1" fill-rule="evenodd"></path>
+</svg>
+</span><span class="screenreader-only">Baixar Relatório em português</span></a></span>.</li>
+</ul>
