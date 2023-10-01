@@ -1,0 +1,1 @@
+gerar seed para repetir os valores em cada teste (no teste da normal e da avl)
