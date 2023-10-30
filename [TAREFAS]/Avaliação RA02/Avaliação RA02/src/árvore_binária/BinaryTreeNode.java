@@ -63,8 +63,6 @@ public class BinaryTreeNode {
 		}
 	}
 	
-
-	
 	public static BinaryTreeNode remove(BinaryTreeNode node, int value) {
 		if (node == null) {
 			return null;

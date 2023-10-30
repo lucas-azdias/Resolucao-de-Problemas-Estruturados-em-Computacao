@@ -128,7 +128,7 @@ public class Main {
 		
 		for (int i = 0; i < 5; i++) {
 			System.out.println(
-					"Teste sem AVL com imserção de " +
+					"Teste sem AVL com inserção de " +
 					testTimes[i] +
 					" vezes demorou " +
 					testTImsert(seed, testTimes[i]) +
@@ -163,7 +163,7 @@ public class Main {
 		
 		for (int i = 0; i < 5; i++) {
 			System.out.println(
-					"Teste com AVL com imserção de " +
+					"Teste com AVL com inserção de " +
 					testTimes[i] +
 					" vezes demorou " +
 					testTAvlImsert(seed, testTimes[i]) +
@@ -194,6 +194,8 @@ public class Main {
 		}
 		System.out.println("\nEnd");
 		
+		// Obs.: Faltou o duplo balanceamento em casos de joelho
+		//		 (quando há inversão de sinal na escalada da árvore)
 	}
 
 }
